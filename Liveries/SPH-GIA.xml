@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<tu154>
+		<livery>
+			<maina>
+				<name type="string">SPH-Garuda Indonesia</name>
+				<texture>Liveries/SPH-GIA/TU-154B_MainA_T.dds</texture>
+			</maina>
+			<mainb>
+				<texture>Liveries/SPH-GIA/TU-154B_MainB_T.dds</texture>
+			</mainb>
+			<var>
+				<texture>Liveries/SPH-GIA/TU-154B_various_T.dds</texture>
+			</var>
+			<wingl>
+				<texture>Liveries/SPH-GIA/TU-154B_WingL_T.dds</texture>
+			</wingl>
+			<wingr>
+				<texture>Liveries/SPH-GIA/TU-154B_WingR_T.dds</texture>
+			</wingr>
+		</livery>
+	</tu154>
+</PropertyList>

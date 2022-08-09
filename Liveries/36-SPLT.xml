@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<tu154>
+		<livery>
+			<maina>
+				<name type="string">36th Special Aviation Regiment (Polish Air Force)</name>
+				<texture>Liveries/36-SPLT/maina_t.png</texture>
+			</maina>
+			<mainb>
+				<texture>Liveries/36-SPLT/mainb_t.png</texture>
+			</mainb>
+			<var>
+				<texture>Liveries/36-SPLT/var_t.png</texture>
+			</var>
+			<wingl>
+				<texture>Liveries/36-SPLT/wingl_t.png</texture>
+			</wingl>
+			<wingr>
+				<texture>Liveries/36-SPLT/wingr_t.png</texture>
+			</wingr>
+		</livery>
+	</tu154>
+</PropertyList>
