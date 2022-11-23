@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<tu154>
+		<livery>
+			<maina>
+				<name type="string">Unpainted</name>
+				<texture>Liveries/Unpainted/maina_t.png</texture>
+			</maina>
+			<mainb>
+				<texture>Liveries/Unpainted/mainb_t.png</texture>
+			</mainb>
+			<var>
+				<texture>Liveries/Unpainted/var_t.png</texture>
+			</var>
+			<wingl>
+				<texture>Liveries/Unpainted/wingl_t.png</texture>
+			</wingl>
+			<wingr>
+				<texture>Liveries/Unpainted/wingr_t.png</texture>
+			</wingr>
+		</livery>
+	</tu154>
+</PropertyList>
