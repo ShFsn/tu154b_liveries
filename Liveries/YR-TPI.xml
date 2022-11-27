@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<tu154>
+		<livery>
+			<maina>
+				<name type="string">YR-TPI TAROM Romanian Air Transport (Red)</name>
+				<texture>Liveries/YR-TPI/maina_t.png</texture>
+			</maina>
+			<mainb>
+				<texture>Liveries/YR-TPI/mainb_t.png</texture>
+			</mainb>
+			<var>
+				<texture>Liveries/YR-TPI/var_t.png</texture>
+			</var>
+			<wingl>
+				<texture>Liveries/YR-TPI/wingl_t.png</texture>
+			</wingl>
+			<wingr>
+				<texture>Liveries/YR-TPI/wingr_t.png</texture>
+			</wingr>
+		</livery>
+	</tu154>
+</PropertyList>
