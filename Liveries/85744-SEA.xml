@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<tu154>
+		<livery>
+			<maina>
+				<name type="string">85744-South East Airlines</name>
+				<texture>Liveries/85744-SEA/maina_t.png</texture>
+			</maina>
+			<mainb>
+				<texture>Liveries/85744-SEA/mainb_t.png</texture>
+			</mainb>
+			<var>
+				<texture>Liveries/85744-SEA/var_t.png</texture>
+			</var>
+			<wingl>
+				<texture>Liveries/85744-SEA/wingl_t.png</texture>
+			</wingl>
+			<wingr>
+				<texture>Liveries/85744-SEA/wingr_t.png</texture>
+			</wingr>
+		</livery>
+	</tu154>
+</PropertyList>
