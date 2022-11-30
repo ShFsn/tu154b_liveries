@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<tu154>
+		<livery>
+			<maina>
+				<name type="string">85816-Bashkirian Air Charter (Pre-1998)</name>
+				<texture>Liveries/85816-BAL2/maina_t.png</texture>
+			</maina>
+			<mainb>
+				<texture>Liveries/85816-BAL2/mainb_t.png</texture>
+			</mainb>
+			<var>
+				<texture>Liveries/85816-BAL2/var_t.png</texture>
+			</var>
+			<wingl>
+				<texture>Liveries/85816-BAL2/wingl_t.png</texture>
+			</wingl>
+			<wingr>
+				<texture>Liveries/85816-BAL2/wingr_t.png</texture>
+			</wingr>
+		</livery>
+	</tu154>
+</PropertyList>
