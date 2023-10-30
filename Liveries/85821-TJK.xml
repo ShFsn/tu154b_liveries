@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<tu154>
+		<livery>
+			<maina>
+				<name type="string">85821-Tajikistan Airlines</name>
+				<texture>Liveries/85821-TJK/maina_t.png</texture>
+			</maina>
+			<mainb>
+				<texture>Liveries/85821-TJK/mainb_t.png</texture>
+			</mainb>
+			<var>
+				<texture>Liveries/85821-TJK/var_t.png</texture>
+			</var>
+			<wingl>
+				<texture>Liveries/85821-TJK/wingl_t.png</texture>
+			</wingl>
+			<wingr>
+				<texture>Liveries/85821-TJK/wingr_t.png</texture>
+			</wingr>
+		</livery>
+	</tu154>
+</PropertyList>
