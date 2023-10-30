@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<PropertyList>
+	<tu154>
+		<livery>
+			<maina>
+				<name type="string">LZ-BTJ-Palair Macedonian</name>
+				<texture>Liveries/PMK/maina_t.png</texture>
+			</maina>
+			<mainb>
+				<texture>Liveries/PMK/mainb_t.png</texture>
+			</mainb>
+			<var>
+				<texture>Liveries/PMK/var_t.png</texture>
+			</var>
+			<wingl>
+				<texture>Liveries/PMK/wingl_t.png</texture>
+			</wingl>
+			<wingr>
+				<texture>Liveries/PMK/wingr_t.png</texture>
+			</wingr>
+		</livery>
+	</tu154>
+</PropertyList>
